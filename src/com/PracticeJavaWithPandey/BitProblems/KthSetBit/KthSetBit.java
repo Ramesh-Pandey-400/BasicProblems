@@ -1,4 +1,4 @@
-package com.PracticeJavaWithPandey.BitProblems;
+package com.PracticeJavaWithPandey.BitProblems.KthSetBit;
 
 import java.util.Scanner;
 
