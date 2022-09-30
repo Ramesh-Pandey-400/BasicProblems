@@ -18,6 +18,7 @@ public class FirstSetBit {
         int result = 0;
         while(n!=0){
             count++;
+
             if(n%2==1){
                 result = count;
                 break;
