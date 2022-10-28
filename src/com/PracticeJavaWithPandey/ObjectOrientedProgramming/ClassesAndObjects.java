@@ -1,4 +1,4 @@
-package com.PracticeJavaWithPandey.Polymorphism;
+package com.PracticeJavaWithPandey.ObjectOrientedProgramming;
 
 public class ClassesAndObjects {
     public static void main(String[] args) {
