@@ -14,17 +14,17 @@ public class KillerWin {
         int hasKnife = scn.nextInt();
 
 
-        ArrayList<Integer> remainingPerson = new ArrayList<>();
-        for(int i = 0 ; i<nPerson; i++){
-            remainingPerson.add(i,i);
-        }
-
-        int arraysize = remainingPerson.size();
-            removeUser(nPerson, hasKnife,remainingPerson,arraysize);
-
-        for(int i = 0 ; i<remainingPerson.size(); i++){
-            System.out.println(remainingPerson.get(i));
-        }
+//        ArrayList<Integer> remainingPerson = new ArrayList<>();
+//        for(int i = 0 ; i<nPerson; i++){
+//            remainingPerson.add(i,i);
+//        }
+//
+//        int arraysize = remainingPerson.size();
+//            removeUser(nPerson, hasKnife,remainingPerson,arraysize);
+//
+//        for(int i = 0 ; i<remainingPerson.size(); i++){
+//            System.out.println(remainingPerson.get(i));
+//        }
 
 
 
